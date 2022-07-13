@@ -1,0 +1,179 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*Header*/
+#logo{
+    padding: 15px 0px 15px 0px;
+}
+
+nav{
+    display: flex;
+    background-color: #FFA000;
+    justify-content: center;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li a{
+    color: #ffff;
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li{
+    font-size: 20;
+    font-weight: 700;
+    padding: 7px 30px 7px 30px;
+}
+
+header{
+    display: flex;
+    background: #FFC107;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    box-shadow: 1px 0px 10px black;
+}
+/*Fim do Header*/
+
+/*Main*/
+/*topo*/
+#maintopo{
+position: absolute;
+width: 1349px;
+height: 405px;
+left: 0px;
+top: 147px;
+}
+
+h1{
+    position: absolute;
+width: 419px;
+height: 170px;
+left: 122px;
+top: 214px;
+font-weight: 700;
+font-size: 70px;
+line-height: 85px;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.36);
+font-family: 'Montserrat';
+font-style: normal;
+}
+
+/*mainmeio*/
+#mainmeio{
+    position: absolute;
+width: 350px;
+height: 771px;
+left: 127px;
+top: 667px;
+}
+
+#borda{
+    position: absolute;
+width: 820px;
+height: 766px;
+left: 492px;
+top: 672px;
+border: 1px solid #FFA000;
+border-radius: 20px;
+}
+
+h2{
+    position: absolute;
+    width: 820px;
+    height: 766px;
+    left: 530px;
+    top: 725px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    color: #FFC107;
+}
+
+#nome{
+    position: absolute;
+    width: 750px;
+    height: 35px;
+    left: 530px;
+    top: 835px;
+    border: 1px solid #FFA000;
+    border-radius: 7px;
+}
+#email{
+    position: absolute;
+    width: 750px;
+    height: 35px;
+    left: 530px;
+    top: 900px;
+    border: 1px solid #FFA000;
+    border-radius: 7px;
+}
+#msg{
+    position: absolute;
+    width: 750px;
+    height: 385px;
+    left: 530px;
+    top: 960px;
+    border: 1px solid #FFA000;
+    border-radius: 7px;
+}
+
+#btn{
+    position: absolute;
+    width: 138px;
+    height: 35px;
+    left: 530px;
+    top: 1380px;
+    background: #FFC107;
+    border-radius: 50px;
+    border: none;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+/*Footer*/
+#direitos{
+    position: absolute;
+    width: 464px;
+    height: 22px;
+    left: 368px;
+    top: 1622px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color:#FFFFFF;
+}
+
+#logo2{
+    position: absolute;
+width: 324px;
+height: 84px;
+left: 10px;
+top: 1589px;
+}
+
+.footcolor div{
+    padding: 50px;
+    position: absolute;
+    width: 1349px;
+    height: 119px;
+    left: 0px;
+    top: 1571px;
+}

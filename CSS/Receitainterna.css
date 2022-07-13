@@ -1,0 +1,240 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+/*Header*/
+#logo{
+    padding: 15px 0px 15px 0px;
+}
+
+nav{
+    display: flex;
+    background-color: #FFA000;
+    justify-content: center;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li a{
+    color: #ffff;
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li{
+    font-size: 20;
+    font-weight: 700;
+    padding: 7px 30px 7px 30px;
+}
+
+header{
+    display: flex;
+    background: #FFC107;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    box-shadow: 1px 0px 10px black;
+}
+
+/*Fim do Header*/
+
+/*Main*/
+h1{
+    position: absolute;
+    width: 462px;
+    height: 61px;
+    left: 120px;
+    top: 272px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+    color: #FFA000;
+}
+
+#h2{
+    position: absolute;
+    padding-right: 110px;
+    padding-bottom: 10px;
+    padding-left: 110px;
+    padding-top: 10px;
+    left: 905px;
+    top: 750px;
+font-weight: 600;
+font-size: 26px;
+line-height: 40px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#h3{
+    position: absolute;
+    padding-right: 55px;
+    padding-bottom: 10px;
+    padding-left: 95px;
+    padding-top: 10px;
+    left: 900px;
+    top: 1215px;
+font-weight: 600;
+font-size: 26px;
+line-height: 31.69px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#h4{
+    position: absolute;
+    padding-right: 130px;
+    padding-bottom: 10px;
+    padding-left: 130px;
+    padding-top: 10px;
+    left: 908px;
+    top: 1715px;
+font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#relacionados{
+    position: absolute;
+width: 321px;
+height: 37px;
+left: 904px;
+top: 343px;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+color: #FFA000;
+}
+
+#video{
+    position: absolute;
+    left: 120px;
+    top: 1303px;
+}
+
+#preparo{
+    position: absolute;
+width: 592px;
+height: 576px;
+left: 128px;
+top: 1655px;
+font-size: 20px;
+line-height: 24px;
+}
+
+#pessoas{
+    position: absolute;
+left: 254.63px;
+top: 704px;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+padding-left: 25px;
+padding-right: 25px;
+padding-bottom: 5px;
+padding-top: 5px;
+}
+
+#facil{
+    position: absolute;
+    left: 120px;
+    top: 704px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#receita{
+    position: absolute;
+width: 592px;
+height: 480px;
+left: 128px;
+top: 786px;
+font-size: 20px;
+line-height: 24px;
+}
+
+.verde{
+    color: #176902;
+    border: 1px solid #176902;
+    border-radius: 47px;
+}
+
+#risoto{
+    position: absolute;
+    width: 592px;
+    height: 311px;
+    left: 120px;
+    top: 361px;
+}
+
+#moqueca{
+    position: absolute;
+    width: 345px;
+    height: 342px;
+    left: 904px;
+    top: 407px;
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#bolo{
+    position: absolute;
+    width: 345px;
+    height: 342px;
+    left: 904px;
+    top: 873px;
+
+}
+
+#tabule{
+    position: absolute;
+    width: 345px;
+    height: 342px;
+    left: 907px;
+    top: 1374px;
+}
+
+/*Fim do main*/
+
+/*Footer*/
+#direitos{
+    position: absolute;
+    width: 464px;
+    height: 22px;
+    left: 368px;
+    top: 2448px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color:#FFFFFF;
+}
+
+#logo2{
+position: absolute;
+width: 324px;
+height: 84px;
+left: 6px;
+top: 2415px;
+}
+
+.footcolor div{
+    padding: 50px;
+    position: absolute;
+width: 1440px;
+height: 119px;
+left: 0px;
+top: 2397px;
+}
